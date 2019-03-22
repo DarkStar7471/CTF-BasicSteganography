@@ -36,7 +36,7 @@
     - ![alt text](https://i.imgur.com/8bOYP9O.jpg)
   - Seems like this one is going to be focused on cracking the stego file. Let's try stegcracker with rockyou.txt as the wordlist
     - ![alt text]()
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/U4B82Eq.jpg)
     - ![alt text]()
   - Well it seems that all that time was worth it, let's take a look at that output
     - ![alt text]()
@@ -51,8 +51,8 @@
   - Well now, that's definitely encoded. We'll go ahead and run that through an online decoder
     - In this case, I'll be using this site: https://www.base64decode.org/ 
     - ![alt text](https://i.imgur.com/sCal2fc.png)
-  - Closer, this looks almost like a flag. It seems that the text isn't quite right and it might have been rotated. Let's see what all of the potential rotation encryptions look like for this.
-    - ![alt text]()
+  - Closer, this looks almost like a flag. It seems that the text isn't quite right and it might have been rotated. Let's see what all of the potential rotation encryptions look like for this. I'll be using this site for that part: https://www.rot13.com/ 
+    - ![alt text](https://i.imgur.com/ASgU408.png)
   - Bingo! There's our flag!
 
 
