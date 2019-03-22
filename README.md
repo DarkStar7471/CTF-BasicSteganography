@@ -45,11 +45,12 @@
   - Download this image file and discover the hidden flag, this challenge will also require A basic understanding of password cracking and string encoding/decoding.
     - ![alt text](https://i.imgur.com/8QfkMGK.jpg)
   - Hmm, this one looks too be fairly tricky. Let's go ahead and start by seeing if we can crack the file.
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/PHefZE4.png)
   - After a little bit that appears to have worked, let's see what we have here
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/qwmCWtS.png)
   - Well now, that's definitely encoded. We'll go ahead and run that through an online decoder
-    - ![alt text]()
+    - In this case, I'll be using this site: https://www.base64decode.org/ 
+    - ![alt text](https://i.imgur.com/sCal2fc.png)
   - Closer, this looks almost like a flag. It seems that the text isn't quite right and it might have been rotated. Let's see what all of the potential rotation encryptions look like for this.
     - ![alt text]()
   - Bingo! There's our flag!
