@@ -25,15 +25,15 @@
 
 - **Challenge 1: Basic Extraction**
   - Download this image file and discover the hidden flag
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/s6MtKfx.jpg)
   - Steganography is a game of checking several avenues and practicing consistency in examining files. In this case, let's go ahead do a basic check. Steghide is a simple tool that allows for hiding files inside other files such as images. Here we'll run the basic steghide extraction command just as a base sanity check.
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/g85WftR.png)
   - Well, it looks like something was in there! Let's see what it is
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/KJyfVpr.png)
   - Looks good!
 - **Challenge 2: Cracking**
   - Download this image file and discover the hidden flag, this challenge will also require knowledge of password cracking
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/8bOYP9O.jpg)
   - Seems like this one is going to be focused on cracking the stego file. Let's try stegcracker with rockyou.txt as the wordlist
     - ![alt text]()
     - ![alt text]()
@@ -43,7 +43,7 @@
   - There we go!
 - **Challenge 3: A Little Bit of Everything**
   - Download this image file and discover the hidden flag, this challenge will also require A basic understanding of password cracking and string encoding/decoding.
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/8QfkMGK.jpg)
   - Hmm, this one looks too be fairly tricky. Let's go ahead and start by seeing if we can crack the file.
     - ![alt text]()
   - After a little bit that appears to have worked, let's see what we have here
