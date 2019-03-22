@@ -8,7 +8,7 @@
 
 ***Description:***
 
-​	![alt text]()
+​	A beginners introduction to image Steganography and file extraction.
 
 ***Related Hosting Links***
 
