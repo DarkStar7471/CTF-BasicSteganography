@@ -35,11 +35,10 @@
   - Download this image file and discover the hidden flag, this challenge will also require knowledge of password cracking
     - ![alt text](https://i.imgur.com/8bOYP9O.jpg)
   - Seems like this one is going to be focused on cracking the stego file. Let's try stegcracker with rockyou.txt as the wordlist
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/iKXJxrO.jpg)
     - ![alt text](https://i.imgur.com/U4B82Eq.jpg)
-    - ![alt text]()
   - Well it seems that all that time was worth it, let's take a look at that output
-    - ![alt text]()
+    - ![alt text](https://i.imgur.com/x1lKCgk.jpg)
   - There we go!
 - **Challenge 3: A Little Bit of Everything**
   - Download this image file and discover the hidden flag, this challenge will also require A basic understanding of password cracking and string encoding/decoding.
